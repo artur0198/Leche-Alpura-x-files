@@ -1,5 +1,6 @@
 # Leche-Alpura-x-files
 # Miembros
+Ervey Antonio Hernandez Vega
 Pablo Enrique Martínez Sánchez
 
 Arturo González Hoyos
