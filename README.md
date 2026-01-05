@@ -1,7 +1,7 @@
 # Leche-Alpura-x-files
 # Miembros
 Pablo Enrique Martínez Sánchez
-
+Ervey Anotnio Hernandez Vega
 Arturo González Hoyos
 # Objetivos
 Identificación del perfil profesional dentro del área
