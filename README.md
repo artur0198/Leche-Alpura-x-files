@@ -7,6 +7,9 @@ Pablo Enrique Martínez Sánchez
 Arturo González Hoyos
 
 Maria Fernanda Gongora Chan
+
+Cesar Mauricio Olivares Rios
+
 # Objetivos
 Identificación del perfil profesional dentro del área
 Investigación de vacantes
