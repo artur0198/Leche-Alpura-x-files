@@ -26,3 +26,5 @@ https://docs.google.com/document/d/1ANqwTxd5w-7E3BbSai62f2XD8YB4Rx8FEdAlLqDnwJI/
 
 # Notas
 Para el entregable 2 se añadieron 2 diapositivas a la presentación en Canva (mismo enlace), siendo estas la 8 y 9 del documento antes mencionado.
+
+Para la documentación del entregable 2 se añadieron 2 hojas al documento (mismo enlace), siendo estas las páginas 3 y 4.
