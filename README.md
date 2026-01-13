@@ -12,8 +12,11 @@ Cesar Mauricio Olivares Rios
 
 # Objetivos
 Identificación del perfil profesional dentro del área
+
 Investigación de vacantes
+
 Definición del área de especialización
+
 Determinar nivel de puesto a aplicar
 
 # Documentación del proyecto
