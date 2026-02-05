@@ -35,12 +35,12 @@ Para la documentación del entregable 3 se añadieron 3 hojas al documento, sien
 
 Para el entregable 4 se añadió 1 diapositiva a la presentación en Canva, siendo esta la # 6
 
-Para la documentación del entregable 3 se añadieron 3 hojas al documento, siendo estas las páginas 5, 6 y 7.
+Para la documentación del entregable 4 se añadieron 3 hojas al documento, siendo estas las páginas 8 y 9.
 
 Para el entregable 5 se añadió 1 diapositiva a la presentación en Canva, siendo esta la # 7
 
-Para la documentación del entregable 3 se añadieron 3 hojas al documento, siendo estas las páginas 5, 6 y 7.
+Para la documentación del entregable 5 se añadieron 3 hojas al documento, siendo estas las páginas 10.
 
 Para el entregable 6 se añadió 1 diapositiva a la presentación en Canva, siendo esta la # 8
 
-Para la documentación del entregable 3 se añadieron 3 hojas al documento, siendo estas las páginas 5, 6 y 7.
+Para la documentación del entregable 6 se añadieron 3 hojas al documento, siendo estas las páginas 10 y 11.
